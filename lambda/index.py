@@ -22,7 +22,7 @@ from botocore.exceptions import ClientError
 #MODEL_ID = os.environ.get("MODEL_ID", "us.amazon.nova-lite-v1:0")
 
 # 追加：APIエンドポイント
-API_ENDPOINT = "https://7fc3-34-143-246-242.ngrok-free.app"
+API_ENDPOINT = "https://6d3d-34-53-12-247.ngrok-free.app"
 
 def lambda_handler(event, context):
     try:
